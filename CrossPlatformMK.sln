@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformMK", "CrossPlatformMK\CrossPlatformMK.csproj", "{7C67D2BA-3D17-43B8-A8B5-1521E132554C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{543B07F9-51CC-4AEA-BA92-E829AB0CDCDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7C67D2BA-3D17-43B8-A8B5-1521E132554C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C67D2BA-3D17-43B8-A8B5-1521E132554C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C67D2BA-3D17-43B8-A8B5-1521E132554C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543B07F9-51CC-4AEA-BA92-E829AB0CDCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543B07F9-51CC-4AEA-BA92-E829AB0CDCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543B07F9-51CC-4AEA-BA92-E829AB0CDCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543B07F9-51CC-4AEA-BA92-E829AB0CDCDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
